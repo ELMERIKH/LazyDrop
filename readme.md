@@ -7,7 +7,7 @@ use reg.exe to make the obsolete ext given to the file when downloaded execute t
 
 its correct extension
 
-note : this will also execute it
+
 
 Example :
 -------------------------
